@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="spring-boot-web-mvc" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="spring-boot-web-mvc" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="es.jorgegueyer.dev.springboot.web.mvc.SpringBootWebMvcApplication" />
+    <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/spring-boot-web-mvc" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
