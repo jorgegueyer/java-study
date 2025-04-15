@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>es.jorgegueyer.dev</groupId>
+    <groupId>es.jorgegueyer.dev.java</groupId>
     <artifactId>java-study</artifactId>
     <version>1.0-0-SNAPSHOT</version>
     <packaging>pom</packaging>
@@ -14,6 +14,8 @@
         <module>java-performance</module>
         <module>spring-boot-web-mvc</module>
         <module>spring-boot-web-reactive</module>
+        <module>spring-boot-hexagonal</module>
+        <module>spring-boot-build</module>
     </modules>
 
     <properties>
